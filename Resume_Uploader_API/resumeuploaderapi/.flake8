@@ -1,0 +1,3 @@
+[flake8]
+max-line-length=100
+exclude = resumeuploaderapi,__pychache__, migrations, __init__.py, tests.py, resumeuploadervenv, manage.py,
